@@ -1,13 +1,4 @@
----
 
-## 🛠️ Tech Stack
-
-- **Frameworks:** LangGraph, LangChain, Ray, FastAPI, Pydantic v2
-- **Vector Engine:** Qdrant DB (Hybrid Sparse/Dense Search)
-- **Execution & MLOps:** Docker, Docker Compose, Redis, Structlog
-- **Quality & Testing:** PyTest, Ruff, MyPy, GitHub Actions
-
----
 
 ## ✨ Key Features
 
