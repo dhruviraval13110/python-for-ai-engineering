@@ -1,0 +1,9 @@
+# Core dependencies
+
+# Add packages here as projects are introduced.
+
+# Example:
+# numpy
+# pandas
+# matplotlib
+# scikit-learn
