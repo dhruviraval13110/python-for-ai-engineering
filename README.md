@@ -1,478 +1,327 @@
 <div align="center">
 
-<a href="https://github.com/dhruviraval13110/python-for-ai-engineering">
-  <img src="./assets/learning-loop.svg" alt="Animated AI Engineering Learning Loop" width="100%">
-</a>
+<img src="./assets/hero-ai-engineering.svg" alt="Animated AI ML Engineering Lab" width="100%">
 
-Python for AI Engineering
+# Python for AI Engineering
 
-A structured AI/ML engineering curriculum — from Python fundamentals to machine learning, deep learning, GenAI, LLM systems, MLOps and research.
+### **A structured, reproducible AI/ML engineering curriculum — from Python fundamentals to machine learning, deep learning, GenAI, LLM systems, MLOps and research.**
 
 <p>
-  <a href="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/python-tests.yml"><img src="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/python-tests.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/quality.yml"><img src="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/quality.yml/badge.svg" alt="Quality"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white" alt="Python 3.11+"></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/dhruviraval13110/python-for-ai-engineering" alt="License"></a>
+<a href="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/python-tests.yml"><img src="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/python-tests.yml/badge.svg" alt="CI"></a>
+<a href="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/quality.yml"><img src="https://github.com/dhruviraval13110/python-for-ai-engineering/actions/workflows/quality.yml/badge.svg" alt="Quality"></a>
+<img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white" alt="Python 3.11+">
+<a href="./LICENSE"><img src="https://img.shields.io/github/license/dhruviraval13110/python-for-ai-engineering" alt="MIT License"></a>
 </p>
 
 <p>
-  <a href="#-curriculum">Curriculum</a> •
-  <a href="#-learning-system">Learning System</a> •
-  <a href="#-machine-learning-lab">ML Lab</a> •
-  <a href="#-production-engineering">Production</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-research">Research</a> •
-  <a href="#-run-locally">Run Locally</a>
+<a href="#-curriculum">Curriculum</a> ·
+<a href="#-how-to-study-every-topic">Study System</a> ·
+<a href="#-machine-learning">Machine Learning</a> ·
+<a href="#-deep-learning">Deep Learning</a> ·
+<a href="#-genai--llm-engineering">GenAI</a> ·
+<a href="#-mlops--deployment">MLOps</a> ·
+<a href="#-research">Research</a> ·
+<a href="#-run-locally">Run</a>
 </p>
 
 </div>
+
+---
 
 <div align="center">
 
-Learn → derive → implement → visualize → test → experiment → debug → explain → document
+<img src="./assets/curriculum-flow.svg" alt="Animated curriculum flow" width="100%">
 
 </div>
 
-🧭 What this repository is
+## 🧭 What this repository is
 
-This repository is designed as a textbook + laboratory + engineering portfolio.
+This repository is a **textbook + laboratory + engineering portfolio**.
 
-It is not organized as a collection of disconnected tutorials. The curriculum is designed to build capability in layers:
+It is designed around a single principle:
 
-Python
-  ↓
-Data Structures & Numerical Computing
-  ↓
-Mathematics + Statistics
-  ↓
-Data Analysis + SQL
-  ↓
-Classical Machine Learning
-  ↓
-Deep Learning
-  ├── Computer Vision
-  └── NLP
-  ↓
-Generative AI
-  ↓
-LLM Engineering
-  ↓
-MLOps + Deployment
-  ↓
-Research + Production Systems
+> **A topic is not complete because it was watched. It is complete when it can be understood, implemented, tested, investigated and explained.**
 
-The objective is simple:
+The learning path moves from programming fundamentals to the mathematical and statistical foundations of ML, then into classical ML, deep learning, modern AI systems, production engineering and research.
 
-Understand the mechanism, implement the idea, use the professional tool, test the behavior, investigate failure, and explain the result.
+---
 
-✨ Curriculum
+## ⚡ Engineering Learning Loop
 
-#
+<div align="center">
 
-Layer
+<img src="./assets/engineering-cycle.svg" alt="Animated engineering learning cycle" width="720">
 
-Core coverage
+</div>
 
-01
+The recurring loop is:
 
-Python Foundations
+**Learn → derive → implement → visualize → test → experiment → debug → explain → document**
 
-Syntax, data types, control flow, functions, collections, OOP, advanced Python, testing and tooling
+This is the standard used throughout the repository.
 
-02
+---
 
-Python for Data
+# 🗺️ Curriculum
 
-NumPy, Pandas, vectorization, data cleaning, feature engineering and performance
+| # | Layer | Coverage |
+|---:|---|---|
+| **01** | [Python Foundations](./01-python-foundations/) | Syntax, types, control flow, functions, collections, OOP, advanced Python, testing and tooling |
+| **02** | [Python for Data](./02-python-for-data/) | NumPy, Pandas, vectorization, cleaning, feature engineering and performance |
+| **03** | [Mathematics for ML](./03-mathematics-for-ml/) | Linear algebra, calculus, probability and optimization |
+| **04** | [Statistics](./04-statistics/) | Descriptive statistics, distributions, inference, experiments and uncertainty |
+| **05** | [Data Analysis](./05-data-analysis/) | Problem framing, cleaning, EDA, feature engineering and decision-oriented analysis |
+| **06** | [Data Visualization](./06-data-visualization/) | Analytical visualization and ML diagnostics |
+| **07** | [SQL](./07-sql/) | Queries, joins, CTEs, windows, schema design and performance |
+| **08** | [Machine Learning](./08-machine-learning/) | Regression, classification, clustering, dimensionality reduction and evaluation |
+| **09** | [Deep Learning](./09-deep-learning/) | Neural networks, backpropagation, optimization, CNNs, sequences and attention |
+| **10** | [Computer Vision](./10-computer-vision/) | Classification, transfer learning, detection, segmentation and OCR |
+| **11** | [NLP](./11-nlp/) | Text processing, representations, embeddings, sequence models and transformers |
+| **12** | [Generative AI](./12-generative-ai/) | LLM foundations, prompting, embeddings, RAG, evaluation and safety |
+| **13** | [LLM Engineering](./13-llm-engineering/) | Tools, agents, memory, structured outputs, reliability, latency and cost |
+| **14** | [MLOps](./14-mlops/) | Reproducibility, tracking, versioning, CI, monitoring and drift |
+| **15** | [Deployment](./15-deployment/) | APIs, containers, CI/CD and production readiness |
+| **16** | [Research](./16-research/) | Hypotheses, baselines, controlled experiments, ablations and error analysis |
 
-03
+---
 
-Mathematics for ML
+# 🎓 How to Study Every Topic
 
-Linear algebra, calculus, probability and optimization
+Every major topic follows the same **12-layer textbook standard**:
 
-04
+```text
+01  Definition
+ ↓
+02  Why it matters
+ ↓
+03  Mental model / intuition
+ ↓
+04  Formal model / mathematics
+ ↓
+05  Hand-worked example
+ ↓
+06  Minimal implementation
+ ↓
+07  Professional library implementation
+ ↓
+08  Visualization
+ ↓
+09  Edge cases + failure modes
+ ↓
+10  Tests + debugging
+ ↓
+11  Experiment + comparison
+ ↓
+12  Interview explanation + mastery check
+```
 
-Statistics
+### Example
 
-Descriptive statistics, inference, distributions, experiments and uncertainty
+For **Logistic Regression**, the expected learning path is not simply:
 
-05
+```python
+LogisticRegression().fit(X, y)
+```
 
-Data Analysis
+It is:
 
-Problem framing, cleaning, EDA, feature engineering and decision-oriented analysis
+**classification problem → sigmoid intuition → probability model → loss function → gradient → hand calculation → NumPy implementation → sklearn implementation → decision boundary → regularization → evaluation → error analysis**
 
-06
+The same standard is applied progressively across the curriculum.
 
-Data Visualization
+---
 
-Analytical plots, ML diagnostics and communication
+# 🐍 01 — Python Foundations
 
-07
+### Fundamentals
 
-SQL
+`Variables` · `Data Types` · `Operators` · `Conditions` · `Loops` · `Functions` · `Scope`
 
-Queries, joins, CTEs, windows, schema design and query performance
+### Data structures
 
-08
+`Lists` · `Tuples` · `Sets` · `Dictionaries` · `Strings` · `Comprehensions`
 
+### Engineering Python
+
+`Exceptions` · `Files` · `Modules` · `Packages` · `OOP` · `Decorators` · `Generators` · `Iterators` · `Context Managers` · `Type Hints` · `Dataclasses`
+
+### Professional tooling
+
+`venv` · `pip` · `pytest` · `logging` · `mypy` · `ruff` · `black` · Git workflows · API basics · async basics
+
+→ **[Open Python Foundations](./01-python-foundations/)**
+
+---
+
+# 📊 02 — Python for Data
+
+### NumPy
+
+- arrays
+- shape / dimensions
+- indexing and slicing
+- broadcasting
+- vectorization
+- dtypes
+- aggregation
+- matrix operations
+- linear algebra
+
+### Pandas
+
+- Series / DataFrame
+- loading datasets
+- filtering
+- sorting
+- missing values
+- duplicates
+- GroupBy
+- merge / join
+- pivoting
+- datetime
+- strings
+- feature engineering
+- performance
+
+→ **[Open Python for Data](./02-python-for-data/)**
+
+---
+
+# 🧮 03–04 — Mathematics + Statistics
+
+Machine learning is built on mathematical and statistical ideas.
+
+### Mathematics
+
+```text
+Linear Algebra
+     ↓
+Calculus
+     ↓
+Gradients
+     ↓
+Probability
+     ↓
+Optimization
+     ↓
 Machine Learning
+```
 
-Regression, classification, clustering, dimensionality reduction and evaluation
+### Statistics
 
-09
+- descriptive statistics
+- probability distributions
+- sampling
+- estimation
+- confidence intervals
+- hypothesis testing
+- correlation
+- experimental reasoning
+- uncertainty
+- common statistical mistakes
 
-Deep Learning
+→ [Mathematics for ML](./03-mathematics-for-ml/) · [Statistics](./04-statistics/)
 
-Neural networks, backpropagation, optimization, CNNs, sequences and attention
+---
 
-10
+# 📈 05–07 — Data Analysis, Visualization + SQL
 
-Computer Vision
+A model is only as useful as the data and question behind it.
 
-Classification, transfer learning, detection, segmentation and OCR
-
-11
-
-NLP
-
-Text processing, representations, embeddings, sequence models and transformers
-
-12
-
-Generative AI
-
-LLM foundations, prompting, embeddings, RAG, evaluation and safety
-
-13
-
-LLM Engineering
-
-Tools, agents, memory, structured outputs, reliability, latency and cost
-
-14
-
-MLOps
-
-Reproducibility, experiment tracking, versioning, CI, monitoring and drift
-
-15
-
-Deployment
-
-APIs, containers, CI/CD and production readiness
-
-16
-
-Research
-
-Hypotheses, baselines, controlled experiments, ablations and error analysis
-
-🧠 Learning System
-
-Every major topic follows the same engineering-first learning contract:
-
-flowchart LR
-    A[Definition] --> B[Intuition]
-    B --> C[Formal Model]
-    C --> D[Worked Example]
-    D --> E[Implementation]
-    E --> F[Visualization]
-    F --> G[Tests]
-    G --> H[Experiment]
-    H --> I[Failure Analysis]
-    I --> J[Interview Explanation]
-    J --> K[Mastery Check]
-    K --> A
-
-Each topic should answer
-
-Layer
-
-Question
-
-Definition
-
-What exactly is it?
-
-Intuition
-
-Why does it work?
-
-Formalism
-
-What are the equations, assumptions or rules?
-
-Implementation
-
-How do I build the smallest working version?
-
-Professional tool
-
-How is it implemented in real projects?
-
-Visualization
-
-Can I see what the system is doing?
-
-Failure
-
-When does it break?
-
-Testing
-
-How do I know it is correct?
-
-Experiment
-
-What changes when an assumption changes?
-
-Communication
-
-Can I explain it clearly in an interview or review?
-
-🐍 Python Foundations
-
-The foundation layer progresses from beginner syntax to engineering practices.
-
-Core Python
-
-Variables · Types · Operators · Conditions · Loops · Functions · Scope · Lists · Tuples · Sets · Dictionaries · Strings · Comprehensions
-
-Engineering Python
-
-Exceptions · Files · Modules · Packages · OOP · Decorators · Generators · Iterators · Context Managers · Type Hints · Dataclasses · Testing · Logging · APIs · Async Basics
-
-Professional habits
-
-readable names
-
-small functions
-
-explicit interfaces
-
-useful docstrings
-
-type hints where they improve clarity
-
-deterministic tests
-
-structured logging
-
-configuration separated from secrets
-
-reproducible environments
-
-Start with the Python Foundations chapter and the existing examples.
-
-📊 Data + Mathematical Foundations
-
-AI engineering becomes much easier when the data and mathematics are understood rather than treated as black boxes.
-
-Numerical computing
-
-arrays and dimensions
-
-indexing and slicing
-
-broadcasting
-
-vectorization
-
-dtypes
-
-aggregation
-
-matrix operations
-
-numerical stability
-
-Data manipulation
-
-DataFrames
-
-filtering and sorting
-
-missing values
-
-duplicates
-
-grouping and aggregation
-
-joins and merges
-
-reshaping
-
-dates and strings
-
-feature engineering
-
-performance considerations
-
-Mathematics
-
-vectors and matrices
-
-dot products
-
-matrix multiplication
-
-derivatives
-
-gradients
-
-probability
-
-distributions
-
-expectation and variance
-
-optimization
-
-Explore Python for Data and Mathematics for ML.
-
-🗃️ SQL + Data Analysis
-
-A strong ML engineer must understand the data before training the model.
-
-The curriculum covers:
-
+```text
 Business Question
-      ↓
+       ↓
 Data Model
-      ↓
-SQL Extraction
-      ↓
+       ↓
+SQL
+       ↓
 Data Quality
-      ↓
+       ↓
 EDA
-      ↓
+       ↓
 Feature Engineering
-      ↓
+       ↓
 Statistical Reasoning
-      ↓
+       ↓
 Model / Decision
+```
 
-SQL topics include:
+SQL includes:
 
-SELECT · WHERE · GROUP BY · HAVING · ORDER BY · JOIN · CASE · Subqueries · CTEs · Window Functions · Aggregations · Indexes · Normalization · Query Optimization
+`SELECT` · `WHERE` · `GROUP BY` · `HAVING` · `JOIN` · `CASE` · `Subqueries` · `CTEs` · `Window Functions` · `Indexes` · `Normalization` · `Query Optimization`
 
-See SQL and Data Analysis.
+→ [Data Analysis](./05-data-analysis/) · [Visualization](./06-data-visualization/) · [SQL](./07-sql/)
 
-🤖 Machine Learning Lab
+---
 
-The ML layer is organized around understanding + implementation + evaluation, not merely calling a library.
+# 🤖 08 — Machine Learning
 
-Algorithms
+The ML layer focuses on **mechanism + implementation + evaluation**.
 
-Family
+### Supervised learning
 
-Algorithms
+- Linear Regression
+- Logistic Regression
+- KNN
+- Naive Bayes
+- Decision Trees
+- Random Forest
+- Gradient Boosting
+- XGBoost
+- SVM
 
-Regression
+### Unsupervised learning
 
-Linear Regression
+- K-Means
+- DBSCAN
+- PCA
 
-Classification
+### From-scratch implementations
 
-Logistic Regression, KNN, Naive Bayes, Decision Trees
+Selected algorithms are implemented educationally from first principles, including:
 
-Ensembles
+- Linear Regression
+- Logistic Regression
+- K-Means
 
-Random Forest, Gradient Boosting, XGBoost
+The purpose is to remove the black box before using higher-level libraries.
 
-Margin-based
+<div align="center">
 
-SVM
+<img src="./assets/model-evaluation-animated.svg" alt="Animated ML model evaluation pipeline" width="100%">
 
-Clustering
+</div>
 
-K-Means, DBSCAN
+### Evaluation framework
 
-Dimensionality Reduction
+Every experiment explicitly defines:
 
-PCA
+| Component | Question |
+|---|---|
+| Split | How is unseen data protected? |
+| Baseline | What does a simple solution achieve? |
+| Preprocessing | What transformations are applied? |
+| Leakage | Could future information enter training? |
+| Metric | What does success mean for this problem? |
+| Error analysis | Where does the model fail? |
+| Decision | What should change next? |
 
-From-scratch implementations
+Metrics include:
 
-The repository includes educational implementations for selected algorithms, including:
+`Accuracy` · `Precision` · `Recall` · `F1` · `ROC-AUC` · `PR-AUC` · `MAE` · `MSE` · `RMSE` · `R²`
 
-Linear Regression
+→ **[Open Machine Learning](./08-machine-learning/)**
 
-Logistic Regression
+---
 
-K-Means
+# 🧠 09 — Deep Learning
 
-The purpose of from-scratch work is to expose the mechanism before abstraction.
+The deep-learning progression:
 
-
-
-Evaluation is part of the model
-
-Every ML experiment should make explicit:
-
-Dataset
-  ↓
-Train / Validation / Test Strategy
-  ↓
-Baseline
-  ↓
-Preprocessing
-  ↓
-Model
-  ↓
-Metric Selection
-  ↓
-Error Analysis
-  ↓
-Conclusion
-
-Covered evaluation concepts include:
-
-train/validation/test splits
-
-cross-validation
-
-overfitting
-
-underfitting
-
-bias/variance
-
-data leakage
-
-class imbalance
-
-accuracy
-
-precision
-
-recall
-
-F1
-
-ROC-AUC
-
-PR-AUC
-
-MAE
-
-MSE
-
-RMSE
-
-R²
-
-Go to Machine Learning.
-
-🧠 Deep Learning
-
-The deep-learning path moves from the smallest neural network to modern architectures.
-
+```text
 Perceptron
    ↓
-Dense Neural Network
+Dense Network
    ↓
 Forward Pass
    ↓
@@ -489,70 +338,69 @@ CNN / Sequence Models
 Attention
    ↓
 Transformers
+```
 
-Topics include:
+Topics:
 
-neurons and layers
+- neurons and layers
+- activation functions
+- forward propagation
+- loss functions
+- gradients
+- backpropagation
+- optimizers
+- learning rate
+- batch size
+- epochs
+- regularization
+- CNNs
+- RNNs
+- LSTMs / GRUs
+- attention
+- transformers
 
-activation functions
+→ **[Open Deep Learning](./09-deep-learning/)**
 
-forward propagation
+---
 
-loss functions
+# 👁️ 10 — Computer Vision
 
-gradients
+Coverage:
 
-backpropagation
+`Image Classification` · `CNNs` · `Preprocessing` · `Augmentation` · `Transfer Learning` · `Object Detection` · `Segmentation` · `OCR` · `Similarity`
 
-optimizers
+The focus is on understanding the complete image pipeline:
 
-learning rate
+**input → preprocessing → representation → model → prediction → evaluation → error analysis**
 
-batch size
+→ **[Open Computer Vision](./10-computer-vision/)**
 
-epochs
+---
 
-regularization
+# 📝 11 — NLP
 
-CNNs
+Coverage:
 
-RNNs
+`Tokenization` · `Text Cleaning` · `Bag of Words` · `TF-IDF` · `Embeddings` · `Word2Vec intuition` · `Sequence Models` · `Attention` · `Transformers`
 
-LSTMs / GRUs
+The goal is to understand the progression from classical text features to modern transformer-based representations.
 
-attention
+→ **[Open NLP](./11-nlp/)**
 
-transformers
+---
 
-See Deep Learning.
+# ✨ 12 — Generative AI
 
-👁️ Computer Vision + 📝 NLP
+Modern AI engineering requires understanding what happens between the prompt and the generated output.
 
-Computer Vision
-
-Image Classification · CNNs · Preprocessing · Augmentation · Transfer Learning · Object Detection · Segmentation · OCR · Similarity
-
-→ Computer Vision
-
-NLP
-
-Tokenization · Text Cleaning · Bag of Words · TF-IDF · Embeddings · Word2Vec Intuition · Sequence Models · Attention · Transformers
-
-→ NLP
-
-✨ Generative AI
-
-Modern AI systems require more than knowing how to call an LLM.
-
-The curriculum covers:
-
+```text
 Tokens
   ↓
 Embeddings
   ↓
 Context
   ↓
-Prompting
+Prompt
   ↓
 Retrieval
   ↓
@@ -561,49 +409,37 @@ Generation
 Evaluation
   ↓
 Guardrails
+```
 
-Core topics:
+Topics:
 
-LLM fundamentals
+- LLM fundamentals
+- tokenization
+- embeddings
+- context windows
+- temperature
+- top-k / top-p
+- inference
+- prompting
+- structured outputs
+- RAG
+- chunking
+- retrieval
+- reranking
+- vector databases
+- hallucination analysis
+- evaluation
+- safety
 
-tokenization
+→ **[Open Generative AI](./12-generative-ai/)**
 
-embeddings
+---
 
-context windows
+# 🛠️ 13 — LLM Engineering
 
-temperature
+An LLM application becomes an engineering system when it has controlled interfaces, evaluation and operational constraints.
 
-top-k / top-p
-
-inference
-
-prompting
-
-structured output
-
-RAG
-
-chunking
-
-retrieval
-
-reranking
-
-vector databases
-
-hallucination analysis
-
-evaluation
-
-safety
-
-→ Generative AI
-
-🛠️ LLM Engineering
-
-LLM applications become engineering systems when they include reliability, observability and controlled interfaces.
-
+```mermaid
 flowchart LR
 U[User] --> API[Application]
 API --> P[Prompt / Policy]
@@ -614,243 +450,225 @@ T --> V[Validation]
 V --> E[Evaluation]
 E --> O[Observability]
 O --> U
+```
 
 Topics:
 
-prompt templates
+- prompt templates
+- function / tool calling
+- agents
+- memory
+- RAG
+- structured outputs
+- evaluation
+- guardrails
+- latency
+- cost
+- caching
+- observability
 
-tool calling
+→ **[Open LLM Engineering](./13-llm-engineering/)**
 
-function interfaces
+---
 
-agents
+# ⚙️ 14–15 — MLOps + Deployment
 
-memory
+<div align="center">
 
-RAG pipelines
+<img src="./assets/production-pipeline-animated.svg" alt="Animated production ML pipeline" width="100%">
 
-structured outputs
+</div>
 
-evaluation
+Production ML connects:
 
-guardrails
+**data → validation → features → model → evaluation → artifact → API → container → monitoring → feedback**
 
-latency
+### MLOps
 
-cost
+- Git
+- reproducibility
+- data / model versioning
+- experiment tracking
+- model registries
+- testing
+- CI/CD
+- monitoring
+- drift
+- rollback thinking
 
-caching
+### Deployment
 
-observability
+- API design
+- model serving
+- Docker
+- environment configuration
+- secrets management
+- CI/CD
+- production readiness
 
-→ LLM Engineering
+→ [MLOps](./14-mlops/) · [Deployment](./15-deployment/)
 
-⚙️ Production Engineering
+---
 
+# 🔬 16 — Research
 
+Research is treated as a controlled engineering process.
 
-A production ML system connects:
-
-data → validation → features → model → evaluation → artifact → API → container → monitoring → feedback
-
-MLOps
-
-Git workflows
-
-reproducibility
-
-data/model versioning
-
-experiment tracking
-
-model registries
-
-testing
-
-CI/CD
-
-monitoring
-
-drift
-
-rollback thinking
-
-Deployment
-
-API design
-
-model serving
-
-Docker
-
-configuration
-
-environment variables
-
-CI/CD
-
-production readiness
-
-See MLOps and Deployment.
-
-🧪 Research
-
-Research is treated as a repeatable engineering process:
-
+```text
 Question
-  ↓
+   ↓
 Hypothesis
-  ↓
+   ↓
 Baseline
-  ↓
+   ↓
 Controlled Change
-  ↓
+   ↓
 Measurement
-  ↓
+   ↓
 Error Analysis
-  ↓
+   ↓
 Conclusion
-  ↓
+   ↓
 Next Experiment
+```
 
-Each experiment should document:
+Every experiment records:
 
-hypothesis
+- hypothesis
+- dataset
+- baseline
+- method
+- controlled variable
+- measurements
+- interpretation
+- limitations
+- next experiment
 
-dataset
+→ **[Open Research](./16-research/)**
 
-baseline
+---
 
-method
+# 💼 Projects
 
-controlled variable
+Projects are organized by capability rather than project-count inflation.
 
-result
+### Beginner
 
-interpretation
+Small complete systems that establish fundamentals.
 
-limitations
+### Intermediate
 
-next experiment
+Projects combining:
 
-→ Research
+**data + analysis + ML + evaluation + APIs**
 
-💼 Projects
+### Advanced
 
-The portfolio system is designed around evidence rather than project-count inflation.
+Systems combining:
 
-Beginner
-
-Build fundamentals through small, complete systems.
-
-Intermediate
-
-Combine data, models, APIs and evaluation.
-
-Advanced
-
-Build systems with:
-
+```text
 Frontend
    ↕
-Backend API
+Backend
    ↕
-ML / AI Service
+AI / ML Service
    ↕
 Database / Vector Store
    ↕
-Evaluation + Monitoring
+Evaluation
+   ↕
+Monitoring
+```
 
-Every serious project should document:
+Each serious project should document:
 
-problem
+- problem
+- decision context
+- dataset
+- data dictionary
+- baseline
+- architecture
+- methodology
+- metrics + justification
+- error analysis
+- limitations
+- reproduction
+- tests
+- future work
 
-users / decision context
+→ **[Open Projects](./projects/)**
 
-data source
+---
 
-data dictionary
+# 🧪 Experiments
 
-baseline
+The experiment layer is for answering questions such as:
 
-architecture
+- Does scaling change SVM behavior?
+- What happens when classes are imbalanced?
+- How does augmentation affect generalization?
+- How does chunk size affect RAG retrieval?
+- Which failure modes dominate a model?
 
-methodology
+Experiments should compare a **baseline against a controlled change**, rather than simply reporting a final number.
 
-metrics
+---
 
-error analysis
+# 🎯 Interview Preparation
 
-limitations
+Preparation covers:
 
-reproduction
+| Area | Practice |
+|---|---|
+| Python | fundamentals, coding, debugging |
+| SQL | queries, joins, windows, optimization |
+| Statistics | probability, inference, experiments |
+| ML | algorithms, metrics, leakage, model selection |
+| DL | networks, gradients, optimization |
+| NLP / CV | representations and architectures |
+| GenAI | RAG, evaluation, prompting |
+| MLOps | deployment, monitoring, reliability |
+| System Design | end-to-end AI architecture |
 
-tests
+The target is not memorization.
 
-future work
+> **Explain what happens, why it happens, what can fail, and how you would debug it.**
 
-→ Projects
+→ **[Open Interview Preparation](./interview-preparation/)**
 
-🎓 Interview Preparation
+---
 
-The interview layer is organized around four dimensions:
+# 🧱 Engineering Standards
 
-Dimension
+This repository follows explicit engineering rules:
 
-Practice
+- Python 3.11+
+- reproducible environments
+- small testable modules
+- meaningful names
+- type hints where useful
+- docstrings where useful
+- Ruff
+- Black
+- pytest
+- mypy where appropriate
+- CI quality gates
+- configuration separated from secrets
+- deterministic examples where possible
+- explicit assumptions
+- explicit limitations
+- no fabricated metrics
+- no fabricated employment
+- no fabricated certifications
+- no fabricated users
+- no fabricated datasets
+- no fabricated deployment claims
 
-Fundamentals
+---
 
-concepts, definitions, intuition
+# 📁 Repository Architecture
 
-Coding
-
-Python, SQL, data structures and implementation
-
-ML reasoning
-
-metrics, leakage, model selection, debugging
-
-System design
-
-data pipelines, model serving, RAG and MLOps
-
-Questions should be answered with why, not only what.
-
-→ Interview Preparation
-
-🧩 Engineering Quality
-
-The repository favors boring, reliable engineering over visual decoration that hides weak fundamentals.
-
-Python 3.11+
-
-Ruff
-
-Black
-
-pytest
-
-mypy where useful
-
-CI checks
-
-deterministic examples
-
-explicit dependencies
-
-environment isolation
-
-no secrets committed to source
-
-no fabricated metrics
-
-no fabricated employment or certifications
-
-no fabricated datasets or deployment claims
-
-📁 Repository Architecture
-
+```text
 python-for-ai-engineering/
 │
 ├── 01-python-foundations/
@@ -892,33 +710,45 @@ python-for-ai-engineering/
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
+```
 
-🚀 Run Locally
+---
 
-Windows PowerShell
+# 🚀 Run Locally
 
+### Windows PowerShell
+
+```powershell
 py -3.11 -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 pytest -q
 ruff check .
+```
 
-Run an example
+### Run an example
 
+```powershell
 python examples/01_variables/variables.py
+```
 
-Run an ML from-scratch implementation
+### Run an ML implementation
 
+```powershell
 python 08-machine-learning/from_scratch/linear_regression.py
+```
 
-🔍 Reviewer Quick Path
+---
 
-If you are reviewing this repository for technical depth:
+# 🔍 Reviewer Quick Path
 
+If you're evaluating the technical depth of this repository:
+
+```text
 README
   ↓
-Python Foundations
+Python
   ↓
 Math + Statistics
   ↓
@@ -928,6 +758,8 @@ Machine Learning
   ↓
 Deep Learning
   ↓
+NLP / CV
+  ↓
 GenAI / LLM Engineering
   ↓
 MLOps / Deployment
@@ -935,67 +767,46 @@ MLOps / Deployment
 Projects
   ↓
 Research
+```
 
-The goal is for every layer to provide evidence of understanding, not simply a list of technologies.
+Each layer is intended to provide evidence through **code, experiments, tests, explanations and documentation**.
 
-📈 Progress Philosophy
+---
 
-This repository intentionally avoids fake progress percentages and artificial achievement counters.
-
-A topic is stronger when it has:
-
-Understanding
-+ Implementation
-+ Tests
-+ Experiment
-+ Failure Analysis
-+ Explanation
-+ Documentation
-
-That is the standard.
-
-🛡️ Responsible AI Engineering
+# 🛡️ Responsible AI Engineering
 
 AI systems are probabilistic and can fail.
 
-High-impact applications require appropriate:
+High-impact systems require appropriate:
 
-human oversight
+- human oversight
+- privacy protection
+- security controls
+- domain review
+- evaluation
+- uncertainty awareness
+- escalation paths
 
-privacy controls
+Knowing **when not to trust a model** is part of AI engineering.
 
-security controls
+---
 
-domain review
+# 📚 Documentation
 
-evaluation
+- [Architecture](./docs/architecture.md)
+- [Coding Guidelines](./docs/coding-guidelines.md)
+- [Roadmap](./docs/roadmap.md)
+- [Contributing](./CONTRIBUTING.md)
+- [License](./LICENSE)
 
-uncertainty awareness
-
-escalation paths
-
-Technical capability includes knowing when a model should not be trusted.
-
-📚 Documentation
-
-Architecture
-
-Coding Guidelines
-
-Roadmap
-
-Contributing
-
-License
-
-⭐ The Standard
-
-Don't optimize this repository to look like an AI engineer. Build it so the evidence makes that conclusion obvious.
+---
 
 <div align="center">
 
-Learn deeply. Build reproducibly. Measure honestly. Explain clearly.
+## Build evidence, not decoration.
 
-<img src="./assets/learning-loop.svg" alt="Animated engineering loop" width="90%">
+**Understand deeply · Build reproducibly · Measure honestly · Explain clearly**
+
+<img src="./assets/engineering-cycle.svg" alt="Animated engineering cycle" width="720">
 
 </div>
