@@ -1,0 +1,180 @@
+<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjOTMwODY1ZC1mZWQzLTQyMzctOWE3ZS1kNWQyM2NmMDExNjkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIPHz4OhUZB0wIeZg0jeMwkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowNjZhZDk3Mi1hNTExLTRiNGMtODE5Ny0zYjJjNmJjNGU1NTZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoQcEhxkczQVqsvsovIcooSwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggttDZKxjAbLcG+AzvVqpdcq8QEKNV5RjYi3GpQtcUJLykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIUo15n+2eLEhGzWyhcuoYIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA5AARuyYkUfwpd4rD5/dv7oapuOf2fCKCoQTxUQ/sjTGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBilZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM5MzA4NjVkLWZlZDMtNDIzNy05YTdlLWQ1ZDIzY2YwMTE2OS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmFkNzY0NjZiLWFiM2QtNDU4Yy1hMWIzLTllNzI2NmMxNzVmMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC20NkrGMBstwb4DO9Wql1yrxAQo1XlGNiLcalC1xQkvKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg8O341T3nxThkmzqpjkzQrWWy050bplLp6mQABkwa3bmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggOv/Els3w05ZtR/IeQ1QWUjCcOj2xWsoKODtLjdMLQdp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEp96vPwUr7oWW6f1vV6XSP9gQP5Lkz4bR6uugA+ApeII38hIOkjQ9GffEiJkjL9R9XrxOBHb7gFD+0kLTmy6A4=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0f1e"/>
+      <stop offset="50%" style="stop-color:#0d1b3e"/>
+      <stop offset="100%" style="stop-color:#0a0f1e"/>
+    </linearGradient>
+    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#7b2fff"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#00d4ff"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg2)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="url(#flowGrad)" opacity="0.6"/>
+  <rect x="0" y="199" width="1200" height="1" fill="url(#flowGrad)" opacity="0.6"/>
+
+  <!-- Labels and nodes -->
+  <g text-anchor="middle">
+    <!-- Node 1: Python -->
+    <g>
+      <rect x="20" y="70" width="100" height="60" rx="8" fill="#0d1b3e" stroke="#00d4ff" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="96" font-size="10" fill="#00d4ff" font-weight="700">01–02</text>
+      <text x="70" y="112" font-size="9" fill="#8899cc">Python</text>
+      <text x="70" y="124" font-size="9" fill="#8899cc">+ Data</text>
+      <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
+    </g>
+
+    <!-- Arrow 1 -->
+    <line x1="120" y1="100" x2="148" y2="100" stroke="#00d4ff" stroke-width="1.5" marker-end="url(#arrow)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+    </line>
+    <!-- Pulse dot -->
+    <circle r="3" fill="#00d4ff" filter="url(#glow2)">
+      <animateMotion path="M120,100 L155,100" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node 2: Math -->
+    <g>
+      <rect x="155" y="70" width="100" height="60" rx="8" fill="#0d1b3e" stroke="#7b2fff" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="205" y="96" font-size="10" fill="#a78bff" font-weight="700">03–04</text>
+      <text x="205" y="112" font-size="9" fill="#8899cc">Math +</text>
+      <text x="205" y="124" font-size="9" fill="#8899cc">Statistics</text>
+      <animate attributeName="opacity" values="0;1" dur="0.7s" fill="freeze"/>
+    </g>
+
+    <!-- Arrow 2 -->
+    <line x1="255" y1="100" x2="283" y2="100" stroke="#7b2fff" stroke-width="1.5" marker-end="url(#arrow)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+    </line>
+    <circle r="3" fill="#7b2fff" filter="url(#glow2)">
+      <animateMotion path="M255,100 L290,100" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node 3: Data/SQL -->
+    <g>
+      <rect x="290" y="70" width="100" height="60" rx="8" fill="#0d1b3e" stroke="#00d4ff" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="340" y="96" font-size="10" fill="#00d4ff" font-weight="700">05–07</text>
+      <text x="340" y="112" font-size="9" fill="#8899cc">Data ·</text>
+      <text x="340" y="124" font-size="9" fill="#8899cc">Viz · SQL</text>
+    </g>
+
+    <!-- Arrow 3 -->
+    <line x1="390" y1="100" x2="418" y2="100" stroke="#00d4ff" stroke-width="1.5" marker-end="url(#arrow)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+    </line>
+    <circle r="3" fill="#00d4ff" filter="url(#glow2)">
+      <animateMotion path="M390,100 L425,100" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node 4: ML -->
+    <g>
+      <rect x="425" y="60" width="110" height="80" rx="8" fill="#0d1b3e" stroke="#00d4ff" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;3;2" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="480" y="88" font-size="10" fill="#00d4ff" font-weight="700">08</text>
+      <text x="480" y="108" font-size="11" fill="#ffffff" font-weight="700">Machine</text>
+      <text x="480" y="126" font-size="11" fill="#ffffff" font-weight="700">Learning</text>
+    </g>
+
+    <!-- Arrow 4 -->
+    <line x1="535" y1="100" x2="563" y2="100" stroke="#7b2fff" stroke-width="1.5" marker-end="url(#arrow)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+    </line>
+    <circle r="3" fill="#7b2fff" filter="url(#glow2)">
+      <animateMotion path="M535,100 L570,100" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node 5: DL -->
+    <g>
+      <rect x="570" y="70" width="100" height="60" rx="8" fill="#0d1b3e" stroke="#7b2fff" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="620" y="96" font-size="10" fill="#a78bff" font-weight="700">09–11</text>
+      <text x="620" y="112" font-size="9" fill="#8899cc">DL · CV</text>
+      <text x="620" y="124" font-size="9" fill="#8899cc">· NLP</text>
+    </g>
+
+    <!-- Arrow 5 -->
+    <line x1="670" y1="100" x2="698" y2="100" stroke="#00d4ff" stroke-width="1.5" marker-end="url(#arrow)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+    </line>
+    <circle r="3" fill="#00d4ff" filter="url(#glow2)">
+      <animateMotion path="M670,100 L705,100" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node 6: GenAI -->
+    <g>
+      <rect x="705" y="60" width="110" height="80" rx="8" fill="#0d1b3e" stroke="#00d4ff" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;3;2" dur="2.2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="760" y="88" font-size="10" fill="#00d4ff" font-weight="700">12–13</text>
+      <text x="760" y="108" font-size="11" fill="#ffffff" font-weight="700">GenAI +</text>
+      <text x="760" y="126" font-size="11" fill="#ffffff" font-weight="700">LLM Eng.</text>
+    </g>
+
+    <!-- Arrow 6 -->
+    <line x1="815" y1="100" x2="843" y2="100" stroke="#7b2fff" stroke-width="1.5" marker-end="url(#arrow)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1.5s" repeatCount="indefinite"/>
+    </line>
+    <circle r="3" fill="#7b2fff" filter="url(#glow2)">
+      <animateMotion path="M815,100 L850,100" dur="1.5s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node 7: MLOps -->
+    <g>
+      <rect x="850" y="70" width="100" height="60" rx="8" fill="#0d1b3e" stroke="#7b2fff" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="900" y="96" font-size="10" fill="#a78bff" font-weight="700">14–15</text>
+      <text x="900" y="112" font-size="9" fill="#8899cc">MLOps +</text>
+      <text x="900" y="124" font-size="9" fill="#8899cc">Deploy</text>
+    </g>
+
+    <!-- Arrow 7 -->
+    <line x1="950" y1="100" x2="978" y2="100" stroke="#00d4ff" stroke-width="1.5" marker-end="url(#arrow)">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1.8s" repeatCount="indefinite"/>
+    </line>
+    <circle r="3" fill="#00d4ff" filter="url(#glow2)">
+      <animateMotion path="M950,100 L985,100" dur="1.5s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node 8: Research -->
+    <g>
+      <rect x="985" y="70" width="100" height="60" rx="8" fill="#0d1b3e" stroke="#00d4ff" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="1035" y="96" font-size="10" fill="#00d4ff" font-weight="700">16</text>
+      <text x="1035" y="112" font-size="9" fill="#8899cc">Research</text>
+      <text x="1035" y="124" font-size="9" fill="#8899cc">+ Projects</text>
+    </g>
+
+    <!-- Arrow 8 — loopback -->
+    <path d="M1085,100 Q1130,30 1140,100 Q1145,155 1000,170 Q500,185 60,170 Q30,165 70,140" stroke="#00d4ff" stroke-width="1" fill="none" stroke-dasharray="4,4">
+      <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
+    </path>
+    <text x="600" y="188" font-size="9" fill="#4466aa" text-anchor="middle">continuous learning loop</text>
+  </g>
+</svg>
