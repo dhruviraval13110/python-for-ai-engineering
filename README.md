@@ -47,7 +47,7 @@ The learning path moves from Python fundamentals through mathematical foundation
 
 <div align="center">
 
-<img src="./assets/engineering-cycle.svg" alt="Engineering Learning Cycle" width="720">
+<img src="./engineering-cycle.svg" alt="Engineering Learning Cycle" width="720">
 
 </div>
 
@@ -65,7 +65,7 @@ This loop repeats at increasing depth across the curriculum.
 
 <div align="center">
 
-<img src="./assets/curriculum-flow.svg" alt="Curriculum Flow" width="100%">
+<img src="./curriculum-flow.svg" alt="Curriculum Flow" width="100%">
 
 </div>
 
@@ -226,7 +226,7 @@ Model / Decision
 
 <div align="center">
 
-<img src="./assets/model-evaluation-animated.svg" alt="ML Evaluation Pipeline" width="100%">
+<img src="./model-evaluation-animated.svg" alt="ML Evaluation Pipeline" width="100%">
 
 </div>
 
@@ -332,7 +332,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="./assets/production-pipeline-animated.svg" alt="Production ML Pipeline" width="100%">
+<img src="./production-pipeline-animated.svg" alt="Production ML Pipeline" width="100%">
 
 </div>
 
@@ -595,7 +595,7 @@ AI systems are probabilistic and can fail. High-impact systems require:
 
 <div align="center">
 
-<img src="./assets/engineering-cycle.svg" alt="Engineering Cycle" width="600">
+<img src="./engineering-cycle.svg" alt="Engineering Cycle" width="600">
 
 <br/>
 
