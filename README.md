@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-ai-engineering.svg" alt="Python for AI Engineering" width="100%">
+<img src="./hero-ai-engineering.svg" alt="Python for AI Engineering" width="100%">
 
 <br/>
 
