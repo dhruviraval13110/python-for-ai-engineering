@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python-for-ai-engineering"
+version = "1.0.0"
+description = "A reproducible Python-to-AI/ML engineering learning laboratory."
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Dhruvi Raval"}]
+dependencies = ["numpy>=1.26", "pandas>=2.2", "matplotlib>=3.8", "scikit-learn>=1.4"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6", "mypy>=1.11", "black>=24.0"]
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
